@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science graduate from UBC.  I love using code to solve problems. I enjoy dabbling in both front-end and back-end development and am quite interested in data engineering. <br>Recently, I've been learning more about Computer Vision and App development, and I'm always eager to dive into new areas of tech. <br>Fun fact about me: I'm fluent in 3 languages English, French, and Arabic!
+I am a Computer Science graduate from UBC.  I love using code to solve problems. I enjoy working along the full-stack of a project and am quite interested in data engineering. <br>Recently, I've been learning more about Computer Vision, App and web App development, and I'm always eager to dive into new areas of tech. <br>Fun fact about me: I'm fluent in 3 languages English, French, and Arabic!
 
 
 ## 🌐 Socials:
