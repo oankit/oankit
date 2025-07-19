@@ -1,6 +1,6 @@
 # Hi, I'm omar  
 ⚡ full stack software engineer  
-🎓 BSc in Computer Science University of British Columbia  
+🎓 BSc in Computer Science, University of British Columbia  
 🛠 working on: MyHomie & Weasley AI  
 🔍 learning:  Next.js & tRPC
 
