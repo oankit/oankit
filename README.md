@@ -1,7 +1,7 @@
 # Hi, I'm Omar  
 ⚡ full stack software engineer  
-🎓 BSc in Computer Science, University of British Columbia  
 🎓 Master of Engineering in Software Engineering, University of Waterloo (in progress)  
+🎓 BSc in Computer Science, University of British Columbia  
 🛠 working on: MyHomie & Weasley AI  
 🔍 learning: Next.js & tRPC  
 
